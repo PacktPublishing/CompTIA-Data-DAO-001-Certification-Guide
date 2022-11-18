@@ -1,0 +1,200 @@
+﻿Type,Breed,Weight (lb),Height (in),Sex
+Cat,Maine Coon,15,11,Male
+Dog,English Mastiff,223,32,Female
+Cat,Singapura,6,8,Female
+Cat,Singapura,4,7,Female
+Cat,Singapura,8,8,Male
+Dog,English Mastiff,191,33,Male
+Dog,Yorkshire Terrier,5,8,Female
+Cat,Maine Coon,14,14,Male
+Dog,English Mastiff,200,29,Male
+Cat,Singapura,5,8,Female
+Cat,Maine Coon,14,14,Female
+Dog,Yorkshire Terrier,4,8,Female
+Cat,Maine Coon,14,10,Male
+Cat,Singapura,5,7,Female
+Cat,Singapura,7,7,Male
+Cat,Maine Coon,18,13,Male
+Cat,Maine Coon,13,10,Female
+Cat,Maine Coon,17,13,Male
+Dog,English Mastiff,214,32,Female
+Cat,Maine Coon,17,12,Male
+Cat,Maine Coon,15,11,Male
+Cat,Maine Coon,17,16,Male
+Dog,Yorkshire Terrier,6,8,Male
+Cat,Singapura,8,8,Female
+Cat,Singapura,7,8,Female
+Cat,Singapura,5,8,Female
+Cat,Maine Coon,16,15,Female
+Dog,English Mastiff,194,35,Female
+Dog,Yorkshire Terrier,6,8,Male
+Dog,English Mastiff,160,32,Male
+Cat,Maine Coon,15,15,Male
+Dog,English Mastiff,215,36,Female
+Dog,Yorkshire Terrier,5,8,Male
+Dog,Yorkshire Terrier,4,9,Female
+Dog,Yorkshire Terrier,4,8,Female
+Cat,Maine Coon,13,16,Female
+Cat,Singapura,8,8,Female
+Dog,English Mastiff,181,36,Female
+Dog,English Mastiff,188,28,Female
+Dog,Yorkshire Terrier,4,8,Female
+Cat,Singapura,7,8,Male
+Cat,Singapura,5,8,Female
+Dog,Yorkshire Terrier,7,9,Male
+Dog,English Mastiff,183,28,Female
+Cat,Maine Coon,14,11,Male
+Cat,Singapura,4,8,Male
+Dog,Yorkshire Terrier,6,9,Female
+Cat,Maine Coon,17,13,Male
+Cat,Maine Coon,16,13,Male
+Cat,Maine Coon,14,15,Male
+Cat,Maine Coon,13,11,Male
+Dog,Yorkshire Terrier,5,9,Male
+Cat,Maine Coon,13,14,Female
+Dog,English Mastiff,200,30,Female
+Cat,Singapura,4,8,Male
+Dog,Yorkshire Terrier,6,6,Female
+Dog,English Mastiff,225,30,Male
+Cat,Singapura,6,7,Female
+Cat,Singapura,6,8,Male
+Dog,English Mastiff,181,36,Female
+Cat,Singapura,5,8,Male
+Cat,Maine Coon,17,16,Female
+Dog,Yorkshire Terrier,6,7,Male
+Dog,English Mastiff,178,30,Female
+Dog,Yorkshire Terrier,7,7,Male
+Cat,Maine Coon,13,16,Female
+Cat,Singapura,7,8,Female
+Cat,Singapura,8,8,Male
+Cat,Maine Coon,17,14,Male
+Dog,English Mastiff,219,35,Female
+Cat,Singapura,4,8,Male
+Dog,Yorkshire Terrier,5,7,Male
+Cat,Maine Coon,15,10,Male
+Dog,Yorkshire Terrier,4,6,Female
+Cat,Maine Coon,15,13,Male
+Dog,English Mastiff,222,30,Female
+Dog,Yorkshire Terrier,6,7,Female
+Cat,Maine Coon,16,12,Female
+Cat,Singapura,8,6,Female
+Dog,English Mastiff,205,33,Male
+Cat,Singapura,5,7,Male
+Dog,Yorkshire Terrier,5,6,Male
+Cat,Maine Coon,18,10,Male
+Cat,Maine Coon,13,15,Female
+Cat,Singapura,8,7,Male
+Cat,Maine Coon,17,12,Female
+Cat,Maine Coon,18,13,Female
+Dog,Yorkshire Terrier,4,6,Male
+Cat,Maine Coon,16,15,Male
+Dog,English Mastiff,185,31,Female
+Cat,Singapura,7,8,Male
+Dog,Yorkshire Terrier,7,6,Male
+Cat,Maine Coon,13,16,Male
+Cat,Maine Coon,17,14,Male
+Dog,English Mastiff,185,35,Female
+Dog,English Mastiff,173,29,Male
+Dog,Yorkshire Terrier,5,9,Male
+Dog,Yorkshire Terrier,6,9,Female
+Cat,Maine Coon,14,16,Male
+Cat,Maine Coon,16,15,Male
+Dog,English Mastiff,204,30,Female
+Dog,English Mastiff,184,30,Female
+Cat,Singapura,6,8,Female
+Dog,English Mastiff,162,31,Female
+Dog,Yorkshire Terrier,6,8,Female
+Dog,English Mastiff,213,34,Female
+Cat,Singapura,7,7,Female
+Dog,English Mastiff,179,36,Female
+Cat,Singapura,5,8,Female
+Cat,Singapura,7,6,Male
+Dog,English Mastiff,197,33,Male
+Dog,English Mastiff,200,32,Female
+Cat,Singapura,6,8,Female
+Cat,Maine Coon,15,10,Female
+Dog,Yorkshire Terrier,4,6,Male
+Dog,English Mastiff,215,36,Female
+Cat,Singapura,7,7,Male
+Dog,Yorkshire Terrier,4,9,Male
+Dog,Yorkshire Terrier,7,7,Female
+Cat,Maine Coon,16,14,Male
+Dog,Yorkshire Terrier,6,8,Female
+Cat,Maine Coon,13,10,Male
+Dog,English Mastiff,164,28,Male
+Dog,Yorkshire Terrier,5,8,Male
+Cat,Maine Coon,16,14,Female
+Cat,Maine Coon,14,12,Female
+Dog,English Mastiff,185,36,Male
+Cat,Singapura,5,7,Male
+Cat,Singapura,4,8,Male
+Dog,English Mastiff,220,34,Male
+Cat,Singapura,7,7,Male
+Cat,Maine Coon,15,15,Male
+Cat,Singapura,7,6,Female
+Dog,English Mastiff,208,36,Female
+Dog,Yorkshire Terrier,5,7,Female
+Dog,English Mastiff,174,29,Male
+Cat,Singapura,4,6,Male
+Cat,Maine Coon,18,14,Male
+Dog,Yorkshire Terrier,7,8,Female
+Cat,Maine Coon,18,11,Female
+Cat,Singapura,5,7,Male
+Dog,Yorkshire Terrier,7,9,Female
+Dog,English Mastiff,215,28,Female
+Cat,Singapura,8,6,Male
+Dog,Yorkshire Terrier,7,7,Female
+Cat,Maine Coon,14,15,Female
+Dog,Yorkshire Terrier,6,7,Female
+Dog,English Mastiff,202,30,Male
+Cat,Singapura,7,7,Male
+Dog,English Mastiff,186,35,Female
+Dog,English Mastiff,164,29,Female
+Cat,Singapura,5,6,Female
+Cat,Maine Coon,16,11,Male
+Dog,Yorkshire Terrier,6,9,Female
+Cat,Maine Coon,18,15,Male
+Cat,Singapura,6,6,Female
+Dog,English Mastiff,189,28,Male
+Dog,Yorkshire Terrier,7,7,Male
+Cat,Maine Coon,18,16,Male
+Cat,Singapura,7,6,Female
+Cat,Maine Coon,15,15,Female
+Dog,English Mastiff,208,32,Male
+Cat,Singapura,8,8,Male
+Cat,Maine Coon,17,16,Male
+Cat,Maine Coon,18,13,Male
+Dog,Yorkshire Terrier,5,8,Male
+Dog,Yorkshire Terrier,6,8,Male
+Cat,Maine Coon,14,13,Female
+Cat,Maine Coon,17,10,Male
+Cat,Maine Coon,13,15,Male
+Cat,Singapura,4,6,Female
+Dog,English Mastiff,207,34,Female
+Cat,Singapura,8,6,Male
+Dog,English Mastiff,172,32,Female
+Cat,Singapura,5,7,Female
+Dog,Yorkshire Terrier,5,6,Female
+Cat,Maine Coon,13,13,Female
+Dog,English Mastiff,171,29,Male
+Dog,English Mastiff,172,28,Female
+Cat,Singapura,5,7,Female
+Cat,Maine Coon,14,14,Female
+Cat,Singapura,7,8,Male
+Cat,Maine Coon,13,13,Female
+Cat,Singapura,7,6,Female
+Cat,Maine Coon,18,12,Female
+Dog,Yorkshire Terrier,4,8,Male
+Cat,Maine Coon,18,11,Male
+Cat,Singapura,7,7,Male
+Cat,Singapura,5,8,Male
+Dog,English Mastiff,205,30,Male
+Cat,Singapura,6,7,Male
+Cat,Maine Coon,16,13,Female
+Dog,Yorkshire Terrier,6,9,Male
+Dog,Yorkshire Terrier,7,9,Female
+Dog,English Mastiff,171,32,Male
+Cat,Singapura,4,8,Male
+Dog,English Mastiff,162,34,Female
+Cat,Singapura,7,7,Male
+Dog,English Mastiff,182,36,Male
