@@ -57,3 +57,8 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Cameron Dodd** is a data professional who specializes in instruction and writing clean, simple curriculum that can be understood without an advanced degree. He has helped thousands of people around the world find their place in the field of data analytics. Recently, he wrote and taught the CompTIA Train-The-Trainer Course for Data+, where he taught instructors how to teach the information covered in this book.	 
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804616086">https://packt.link/free-ebook/9781804616086 </a> </p>
